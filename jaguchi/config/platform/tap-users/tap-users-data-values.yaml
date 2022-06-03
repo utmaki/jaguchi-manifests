@@ -39,7 +39,7 @@ users:
   clusterroles:
   - app-editor
   - edit
-- name: making-bot
-  email: makingx+bot@gmail.com
+- name: making-bot*
+  email: makingx+botgmail.com
   clusterroles:
   - cluster-admin
