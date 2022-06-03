@@ -39,7 +39,7 @@ users:
   clusterroles:
   - app-editor
   - edit
-- name: shinyay
+- name: making
   email: foo@example.com
   clusterroles:
   - app-editor
