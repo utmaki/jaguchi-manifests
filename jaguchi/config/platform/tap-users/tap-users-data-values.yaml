@@ -39,7 +39,8 @@ users:
   clusterroles:
   - app-editor
   - edit
-- name: making-bot*
-  email: makingx+botgmail.com
+- name: making-bot
+  email: makingx+bot@gmail.com
   clusterroles:
-  - cluster-admin
+  - app-editor
+  - edit
