@@ -40,6 +40,7 @@ users:
   - app-editor
   - edit
 - name: making-bot
+  email: foo@example.com
   clusterroles:
   - app-editor
   - edit
