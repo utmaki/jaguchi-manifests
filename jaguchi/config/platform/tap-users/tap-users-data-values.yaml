@@ -38,9 +38,7 @@ users:
   email: msanderson@vmware.com
   clusterroles:
   - app-editor
-  - edit
 - name: making
   email: foo@example.com
   clusterroles:
   - app-editor
-  - edit
