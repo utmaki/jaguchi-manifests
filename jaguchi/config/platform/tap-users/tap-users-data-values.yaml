@@ -43,4 +43,3 @@ users:
   email: foo@example.com
   clusterroles:
   - app-editor
-  - admin
